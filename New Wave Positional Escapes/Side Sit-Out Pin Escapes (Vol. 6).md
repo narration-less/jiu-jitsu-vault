@@ -1,4 +1,4 @@
-Motivation to sit through in side control
+Motivation to sit through in [[Side Control]] side control
 - Lowers center of gravity and discourages framing of the knee or arm
 - Smart people grab the arm before sitting out in side control
 

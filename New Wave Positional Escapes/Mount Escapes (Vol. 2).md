@@ -1,5 +1,7 @@
 # Lateral Kipping Escape
 
+## Moves into [[Leglocks]]
+
 ## Two options for kipping escape from bottom Mount
 
 - Heel of hand on each hip bone of opponent
