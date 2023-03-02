@@ -18,10 +18,51 @@
     2. Move forearm frame from hip to inside control of opponents arm to prevent head control
 4. Move into [[The Clamp]]
 
-# The Role of The Head In Side Escapes
+# Role of Opponent's Head while in Side Control
 
-## General Observations
-- Your opponent's head
-	- There is a relationship with your opponent's head and his hips
-- 43:00
-- 
+- Opponents head has to be across your side.
+- Hips on one side, head on the other
+- If opponent's head gets to same side as side, this becomes a very weak pin
+
+## Conventional Jiu-Jitsu Crossface
+This does not apply to reverse crossface
+INSERT REVERSE CROSSFACE PICTURE
+
+44:20 for overback grip 
+
+- Move opponent's head to the other side by bridging and moving the head with your outside bicep
+    - Do not grab head or neck, extend the arm and bring across
+    - Don't punch the head (dick move)
+    - Thumb points down and across
+- 47:10 for under neck frame
+
+## Different Defensive Frame Options
+- Optimally, get inside of opponent's wedges
+- Inside Arm Overview 52:20, 54:20
+    1. The arm that frames in the hip 50:00
+    2. 50:30 Thumb post in armpit
+        - Elbow in opponent's other hip closest to yours
+        - Could stop sit-out pins
+    3. Thumb post at the tricep 51:50
+        - Good for if they like to reverse crossface
+        - As they reverse, you can frame hard
+    4. 53:10 Scoop Option
+        - Arm goes completely under
+        - Useful for [[Backdoor]] escapes
+
+- Outside arm
+    1. (Best) Reverse crossface across opponent's neck 55:00
+        - Enables head movement, limits pressure they can use
+        - Hand goes all the way through to wrap around their tricep
+    2. Underhook 56:30
+    3. Overback
+        - Do not curl into head/neck
+
+## Problem of Crossface Side Pins: Near Hip/Far Hip Connection
+- The central problem that needs addressed is your opponent's far side hip to your near side hip 59:00
+
+## Problem of Reverse Crossface Side Pins: Near Shoulder/Far Shoulder Connection
+
+
+1:12:00 Variations of side pins, emphasis of arms
+1:13:00 The role of legs in side pins 
