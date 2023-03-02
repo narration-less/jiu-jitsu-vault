@@ -1,4 +1,4 @@
-# Side Control
+# [[NW Side Control |Side Control]]
 - Arm-Dominant
 - Pinner's hips *below* the pinned's shoulder line
 

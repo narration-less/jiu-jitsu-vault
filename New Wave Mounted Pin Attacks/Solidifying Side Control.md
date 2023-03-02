@@ -1,4 +1,4 @@
-# Solidifying [[Side Control]]
+# Solidifying [[NW Side Control]]
 
 - With opponent’s elbow framed in your hip, you can be easily swept
 - You have to remove opponent’s frame from your hips

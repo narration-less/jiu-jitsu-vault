@@ -1,3 +1,4 @@
+New Wave Positional Escapes Vol. 4, 5, 6
 # Side Elbow Escape
 
 ![[side_elbow_overview.mp4]]
@@ -16,7 +17,7 @@
 3. Other leg postures against framed knee and push and rotate parallel under
     1. Your head needs to be in front/ahead of opponents head
     2. Move forearm frame from hip to inside control of opponents arm to prevent head control
-4. Move into [[The Clamp]]
+4. Move into [[The Clamp |the clamp]]
 
 # Role of Opponent's Head while in Side Control
 
@@ -48,7 +49,7 @@ INSERT REVERSE CROSSFACE PICTURE
         - As they reverse, you can frame hard
     4. 53:10 Scoop Option
         - Arm goes completely under
-        - Useful for [[Backdoor]] escapes
+        - Useful for [[NW Backdoor Escape (Side Control) |backdoor]] escapes
 
 - Outside arm
     1. (Best) Reverse crossface across opponent's neck 55:00
