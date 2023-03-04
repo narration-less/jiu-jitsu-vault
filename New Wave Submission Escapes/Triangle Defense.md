@@ -1,7 +1,5 @@
 New Wave Submission Escapes Vol. 4
-# Triangle Defense
-
-# General Considerations of the Triangle
+# General Considerations of the [[Triangle]]
 - More you understand the triangle, easier it is to escape
 - Most people first are in a trap triangle: ![[trap_triangle.png]]then move into an actual figure four triangle
 - Easier to escape the trap triangle rather than a figure four
