@@ -32,12 +32,14 @@ Reverse Crossface (Note opponent's arm past Danaher's head):
 ## Conventional Crossface
 ### Overback Grip
 ![[vlc-record-2023-03-04-05h54m06s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Positional.Escapes.S01.E04.mp4-.mp4]]
+
 - Move opponent's head to the other side by bridging and moving the head with your outside bicep
     - Do not grab head or neck, extend the arm and bring across
     - Don't punch the head (dick move)
     - Thumb points down and across
 ### If you are framed under the neck:
 ![[vlc-record-2023-03-04-06h04m10s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Positional.Escapes.S01.E04.mp4-.mp4]]
+
 1. Lift, bridge
 2. Elbow goes along opponent's jaw and you rotate head to opposite shoulder (putting opponent's head on same side as his hips)
 - This enables you to go straight into the side elbow escape
