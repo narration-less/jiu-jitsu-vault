@@ -2,6 +2,7 @@
 New Wave Positional Escapes Vol. 4, 5, 6
 
 ![type:video](/assets/side_elbow_overview.mp4)
+
 - Most effective method - Danaher
 - First target are the arms, as it's an arm dominant pin
 	- Most likely fail, they pull out, you attack legs
@@ -39,7 +40,7 @@ Reverse Crossface (Note opponent's arm past Danaher's head):
     - Don't punch the head (dick move)
     - Thumb points down and across
 ### If you are framed under the neck:
-![[vlc-record-2023-03-04-06h04m10s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Positional.Escapes.S01.E04.mp4-.mp4]]
+![type:video](/assets/vlc-record-2023-03-04-06h04m10s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Positional.Escapes.S01.E04.mp4-.mp4)
 
 1. Lift, bridge
 2. Elbow goes along opponent's jaw and you rotate head to opposite shoulder (putting opponent's head on same side as his hips)
