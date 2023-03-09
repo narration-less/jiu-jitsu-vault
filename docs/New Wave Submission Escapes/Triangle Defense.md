@@ -7,12 +7,14 @@ New Wave Submission Escapes Vol. 4
 
 ## Escaping the Trap Triangle Method 1
 ![[vlc-record-2023-03-02-15h18m06s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Submission.Escapes.S01.E04.mp4-.mp4]]
+
 1. Posture up, bring exposed arm to opponents waistline
 2. Once Posture, do a reach back. (Prevents opponent knee from coming over you shoulder and putting pressure on carotid
 	1. Elbow goes behind opponent's knee (thumb under?)
 
 ## Escaping the Trap Triangle Method 2 8:20
 ![[vlc-record-2023-03-03-06h01m56s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Submission.Escapes.S01.E04.mp4-.mp4]]
+
 1. Posture up, bring exposed arm to opponents waistline
 2. Bring exposed arm to opponent's side and from in their armpit
 	- Your elbow touches your knee and their hip

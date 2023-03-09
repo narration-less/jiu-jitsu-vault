@@ -1,0 +1,29 @@
+site_name: Jiu-Jitsu by Narrationless
+#site_url: https://group-name.gitlab.io/repo-name
+site_dir: public
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: light blue
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+
+  - footnotes
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist
+  - pymdownx.emoji
+  - admonition
+
+plugins:
+  - search
+  - roamlinks
