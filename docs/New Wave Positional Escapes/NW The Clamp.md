@@ -10,8 +10,8 @@
 - The knee under the shoulder
 ## Upper Body Attacks
 
-![[the_clamp_upper_attacks.mp4]]
+![type:video](/assets/the_clamp_upper_attacks.mp4)
 
 ## Transitioning to the Lower Body
 
-![[the_clamp_lower_body_1.mp4]]
+![type:video](/assets/the_clamp_lower_body_1.mp4)
