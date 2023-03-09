@@ -1,6 +1,7 @@
+# Side Elbow Escape From Side Control
 New Wave Positional Escapes Vol. 4, 5, 6
 
-![[side_elbow_overview.mp4]]
+![type:video](/assets/side_elbow_overview.mp4)
 - Most effective method - Danaher
 - First target are the arms, as it's an arm dominant pin
 	- Most likely fail, they pull out, you attack legs

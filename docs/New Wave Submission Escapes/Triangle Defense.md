@@ -1,3 +1,4 @@
+# Trap Triangle Defenses
 New Wave Submission Escapes Vol. 4
 # General Considerations of the [[Triangle]]
 - More you understand the triangle, easier it is to escape

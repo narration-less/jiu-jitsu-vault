@@ -1,4 +1,5 @@
-![[the_clamp.mp4]]
+# The Clamp
+![type:video](/assets/the_clamp.mp4)
 ## When applied from [[NW Side Elbow Escape (Side Control)]]
 - The forearm frame moves from hip line to block opponents arm.
 	- This prevents the opponent from controlling your head

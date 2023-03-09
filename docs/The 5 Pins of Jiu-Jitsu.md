@@ -1,3 +1,4 @@
+# The 5 Pins of Jiu-Jitsu
 # [[NW Side Control |Side Control]]
 - Arm-Dominant
 - Pinner's hips *below* the pinned's shoulder line

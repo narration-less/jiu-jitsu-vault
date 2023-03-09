@@ -1,3 +1,4 @@
+# Side Sit-out Pin Escapes
 New Wave Positional Escapes Vol. 4, 5, 6
 Motivation to sit through while in [[NW Side Control |side control]]
 - Lowers center of gravity and discourages framing of the knee or arm
