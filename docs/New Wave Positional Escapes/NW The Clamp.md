@@ -1,6 +1,6 @@
 # The Clamp
 ![type:video](/assets/the_clamp.mp4)
-## When applied from [[NW Side Elbow Escape (Side Control)]]
+## When applied from the [[NW Side Elbow Escape (Side Control) |side elbow escape]]
 - The forearm frame moves from hip line to block opponents arm.
 	- This prevents the opponent from controlling your head
 - The same side knee as your forearm frame comes up to the front of your opponent's shoulder

@@ -1,7 +1,7 @@
 # Welcome to Narrationless Notes
 
 ## Directory:
-- [[NW Intro & End of Positional Escapes |New Wave Positional Escapes]]
-- [[NW Intro to Mounted Pin Attacks |New Wave Mounted Pin Attacks]]
-- [[NW Intro to Submission Escapes]]
+- [[NW Positional Escapes TOC|New Wave Positional Escapes]]
+- [[NW Mount TOC|New Wave Mounted Pin Attacks]]
+- [[NW Submission Escapes TOC|New Wave Submission Escapes]]
 

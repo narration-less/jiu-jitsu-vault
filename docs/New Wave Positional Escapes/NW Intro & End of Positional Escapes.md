@@ -1,3 +1,4 @@
+# New Wave Positional Escapes
 New Wave Positional Escapes Vol. 1, 8
 # Intro
 - Defense is the source of all attacking confidence
@@ -5,18 +6,26 @@ New Wave Positional Escapes Vol. 1, 8
 - 50% of training time should be dedicated to defense
 
 ## Traditional Approach to Defense
-3 Types of positions
+3 Types of positions:
+
 1. Dominant
 2. Neutral
 3. Inferior
----
-- Work from inferior to neutral
-- neutral to dominant
-- not, optimal, but not wrong
+
+Traditionally you work from inferior to neutral, then to dominant. Not wrong, but not optimal.
+``` mermaid
+graph TD
+  A["Bottom Mount (Inferior)"] -- Elbow Escape --> B["Closed Guard (Neutral)"];
+  B -- Sweep --> C["Top Mount (Dominant)"];
+```
 
 ## The Danaher Way
 - Move straight from an inferior position to a counter attack
 - Rather than defense then switch to offense, meld the two
+``` mermaid
+graph TD
+  A["Bottom Mount (Inferior)"] -- Kipping Escape --> B["Leg Lock (Dominant)"];
+```
 
 ## The 2 Defensive Skills
 1. Pin Escapes
@@ -40,7 +49,7 @@ New Wave Positional Escapes Vol. 1, 8
 	- Sufficent degree of inside position to create a tipping point to where the pin is broken and you attack
 	- Move from defense to offense quickly (Timing is important)
 	- Moving into a counter-attack, rather than a neutral position
-		- Ashi, arm bar, [[NW The Clamp]], etc
+		- [[Leglocks |Ashi]], arm bar, [[NW The Clamp |the clamp]], etc
 		- Costs nothing extra to move into an attack rather than guard
 		- Don't limit yourself to guard
 
