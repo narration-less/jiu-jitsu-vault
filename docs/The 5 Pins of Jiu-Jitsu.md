@@ -1,16 +1,17 @@
-# [[NW Side Control |Side Control]]
+# The 5 Pins of Jiu-Jitsu
+## [[NW Side Control |Side Control]]
 - Arm-Dominant
 - Pinner's hips *below* the pinned's shoulder line
 
-# North-South
+## North-South
 - Arm-Dominant
 - Pinner's hips *above* the pinned's shoulder line
 
-# Mounted Pins
+## Mounted Pins
 - Leg dominate
 
-# Knee On Belly
+## Knee On Belly
 - Leg Dominant
 
-# Rear Mount (Back Take)
+## Rear Mount (Back Take)
 - Leg dominant

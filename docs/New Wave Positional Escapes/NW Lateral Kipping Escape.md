@@ -3,10 +3,11 @@ New Wave Positional Escapes Vol. 2
 
 ## Moves into [[Leglocks]]
 
-## Two options for kipping escape from bottom Mount
+## Two options for kipping escape from bottom mount
 
 - Heel of hand on each hip bone of opponent
-- 2 on 1: forearm across waist for 2 hands one hip. See 7:09 for pic
+- 2 on 1: forearm across waist for 2 hands one hip. 
+![[Pasted image 20230309184354.png]]
 ---
 
 - Fingers are pointed outwards to prevent wrist lockslocks
@@ -31,7 +32,7 @@ New Wave Positional Escapes Vol. 2
 - Tuck legs in to start to slide out and kip
 - Kip in and bring on knee inside
 
-![[lateral_kipping_mount.mp4]]
+![type:video](/assets/lateral_kipping_mount.mp4)
 ### Notes
 
 - Number one mistake:

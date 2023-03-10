@@ -1,3 +1,4 @@
+# Intro to New Wave Mounted Pin Attacks
 # Goals
 
 - Break posture and shut down escapes
@@ -24,7 +25,7 @@
     - Points to wedge: (Note: Get under the body to wedge. Like a door stop.)
         - Hip line
         - Shoulder line
--  An example of effective wedges: [[NW Side Control]]
+-  An example of effective wedges: [[NW Side Control |New Wave Side Control]]
 
 # Two Big Themes of New Wave Pinning
 
@@ -42,7 +43,8 @@
 
 **Example: (Side Control to North-South to Other Side Control)**
 
-From [[NW Side Control]]:
+From [[NW Side Control |New Wave Side Control]]:
+
 - As opponent moves their knees into your hip line to attain guard, move hip side arm/far side arm (currently an underhook/under opponent’s body) back to your torso
 - Then take hip side arm around opponent’s butt to block them from coming into the hip line
 - From here, you move into North-South then transition to side control on other side
@@ -80,5 +82,3 @@ From [[NW Side Control]]:
     - Both knew to fight the elbows
 - Directly interfere with opponent’s breathing
     - More important than the discomfort of knee-on-belly or side control
-
-Next in New Wave Mount Intructional [[NW High Mount Chest Wrap]]

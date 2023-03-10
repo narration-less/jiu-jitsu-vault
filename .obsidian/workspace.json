@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Wave Positional Escapes/NW The Clamp.md",
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d9fa7894f841955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/New Wave Mounted Pin Attacks/NW Mount TOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b42f97f1846f0fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/New Wave Positional Escapes/NW Intro & End of Positional Escapes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Wave Positional Escapes/NW The Clamp.md",
+                "file": "docs/New Wave Positional Escapes/NW Intro & End of Positional Escapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Wave Positional Escapes/NW The Clamp.md",
+                "file": "docs/New Wave Positional Escapes/NW Intro & End of Positional Escapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Wave Positional Escapes/NW The Clamp.md"
+                "file": "docs/New Wave Positional Escapes/NW Intro & End of Positional Escapes.md"
               }
             }
           }
@@ -147,37 +172,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f7e49454ede672ee",
+  "active": "b42f97f1846f0fc6",
   "lastOpenFiles": [
+    "docs/New Wave Positional Escapes/NW Backdoor Escape (Side Control).md",
+    "docs/New Wave Positional Escapes/NW Intro & End of Positional Escapes.md",
+    "docs/New Wave Mounted Pin Attacks/NW Solidifying Side Control.md",
+    "docs/New Wave Mounted Pin Attacks/NW Side Control to Mount.md",
+    "docs/New Wave Mounted Pin Attacks/NW Side Control.md",
+    "docs/New Wave Mounted Pin Attacks/NW Mount TOC.md",
+    "docs/New Wave Mounted Pin Attacks/NW High Mount Chest Wrap.md",
+    "docs/New Wave Mounted Pin Attacks/NW Intro to Mounted Pin Attacks.md",
+    "docs/New Wave Submission Escapes/Trap Triangle Defenses.md",
+    "docs/New Wave Submission Escapes/NW Submission Escapes TOC.md",
+    "docs/New Wave Positional Escapes/Side Sit-Out Pin Escapes.md",
+    "docs/New Wave Positional Escapes/NW The Clamp.md",
+    "docs/New Wave Positional Escapes/NW Side Elbow Escape (Side Control).md",
+    "docs/New Wave Positional Escapes/NW Positional Escapes TOC.md",
+    "docs/New Wave Positional Escapes/NW Lateral Kipping Escape.md",
+    "docs/assets/Pasted image 20230309184354.png",
+    "docs/index.md",
+    "docs/The 5 Pins of Jiu-Jitsu.md",
+    "docs/Untitled.md",
+    "Misc",
+    "docs/Leglocks",
+    "docs/Intro to New Wave Mounted Pin Attacks.md",
+    "assets/side_elbow_overview.mp4.md",
+    "assets",
     "The 5 Pins of Jiu-Jitsu.md",
     "Leglocks.md",
     "New Wave Submission Escapes/Triangle Defense.md",
     "New Wave Mounted Pin Attacks/Intro to New Wave Mounted Pin Attacks.md",
     "New Wave Mounted Pin Attacks/NW Side Control to Mount.md",
-    "New Wave Mounted Pin Attacks/NW Solidifying Side Control.md",
-    "New Wave Positional Escapes/NW Intro & End of Positional Escapes.md",
-    "New Wave Positional Escapes/Side Sit-Out Pin Escapes.md",
-    "New Wave Positional Escapes/NW Side Elbow Escape (Side Control).md",
-    "New Wave Positional Escapes/NW Backdoor Escape (Side Control).md",
     "Attachments/vlc-record-2023-03-04-06h04m10s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Positional.Escapes.S01.E04.mp4-.mp4",
     "Attachments/vlc-record-2023-03-04-05h54m06s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Positional.Escapes.S01.E04.mp4-.mp4",
     "Attachments/Pasted image 20230304054846.png",
-    "New Wave Positional Escapes/NW The Clamp.md",
     "Attachments/vlc-record-2023-03-03-06h01m56s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Submission.Escapes.S01.E04.mp4-.mp4",
     "Attachments/vlc-record-2023-03-02-15h18m06s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Submission.Escapes.S01.E04.mp4-.mp4",
     "Attachments/trap_triangle.png",
-    "New Wave Positional Escapes/NW Mount Escapes.md",
-    "New Wave Mounted Pin Attacks/NW Side Control.md",
-    "index.md",
-    "New Wave Mounted Pin Attacks/NW High Mount Chest Wrap.md",
     "index",
     "Attachments",
-    "New Wave Mounted Pin Attacks",
-    "New Wave Positional Escapes/Knee-On-Belly Escapes (Vol. 4).md",
-    "Attachments/lateral_kipping_mount.mp4",
-    "New Wave Positional Escapes/Turtle Escapes (Vol. 7).md",
-    "Attachments/the_clamp_lower_body_1.mp4",
-    "Attachments/the_clamp_upper_attacks.mp4",
-    "vlc-record-2023-02-23-20h28m07s-John.Danaher.-.New.Wave.Jiu.Jitsu.-.A.New.Philosophy.Of.Positional.Escapes.S01.E04.mp4- 1.mp4.md"
+    "New Wave Mounted Pin Attacks"
   ]
 }

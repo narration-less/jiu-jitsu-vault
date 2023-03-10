@@ -1,4 +1,5 @@
-# Solidifying [[NW Side Control]]
+# Solidifying Side Control
+## Continuing from: [[NW Side Control |Side Control]]
 
 - With opponent’s elbow framed in your hip, you can be easily swept
 - You have to remove opponent’s frame from your hips
@@ -18,4 +19,4 @@
 - The underhook will be given up for stability, but will be regained after the movement
 - The posted arm can post against opponent’s far side leg to push when walking back up
 
-## Next Transition from [[NW Side Control to Mount]]
+### Next Transition from [[NW Side Control to Mount |side control to mount]]

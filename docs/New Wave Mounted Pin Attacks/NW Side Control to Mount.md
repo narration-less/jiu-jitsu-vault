@@ -11,7 +11,7 @@
 4. Now that knee is placed in opponent’s hip line, take underhook arm and post ahead of your own head to prevent sweeping, widens base (Over-post wide)
 5. Slide knee through hip line and touch knee on mat
 6. Bring posted hand under the elbow (elbow penetration) and walk opponent’s elbow up past shoulder line and over to far side shoulder
-7. You are now in [[NW High Mount Chest Wrap]], but need to move the hip line knee
+7. You are now in [[NW High Mount Chest Wrap |high mount chest wrap]], but need to move the hip line knee
 8. Can use your head as a base above opponent’s head
 9. Tilt body toward the knee posted on mat and windshield wiper leg out of hip line
     - This reduces ankle exposure for opponent to use as a sweep
