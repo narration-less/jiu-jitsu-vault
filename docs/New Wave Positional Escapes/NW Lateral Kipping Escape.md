@@ -32,7 +32,7 @@ New Wave Positional Escapes Vol. 2
 - Tuck legs in to start to slide out and kip
 - Kip in and bring on knee inside
 
-![type:video](/assets/lateral_kipping_mount.mp4)
+![type:video](./assets/lateral_kipping_mount.mp4)
 ### Notes
 
 - Number one mistake:
